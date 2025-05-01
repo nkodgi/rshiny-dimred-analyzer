@@ -21,6 +21,16 @@ These tools revealed that **tumor size-related features** showed the strongest g
 
 ---
 
+## 🚀 How to Run the App in RStudio
+1. Clone this repository to your local machine or download the .csv and .r files. If you're doing this with command line:
+   ```bash
+   git clone https://github.com/nkodgi/rshiny-dimred-analyzer.git
+   ```
+3. Open the .R file (e.g., app.R) in RStudio.
+4. Click "Run App" (top right corner of the editor).
+5. Once launched, add the data you would like to use (or the test data).
+---
+
 ## 🧠 Team Contributions
 
 ### 🔧 **Akber Shaikh (A.S.)**
