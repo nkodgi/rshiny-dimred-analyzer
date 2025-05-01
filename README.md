@@ -1,2 +1,4 @@
-# rshiny-dimred-analyzer
-R Shiny App Developed by BDV8813 Team8
+# R Shiny Dimensionality Reduction and Statistical Analysis Application
+## This app was created by Radha Patel, Akber Shaikh, Jamie English, and Natasha Kodgi - Biomedical Data Visualization Spring 2025
+## A.S. designed the R Shiny app with tabs and buttons and uploading/downloading data. R.P. implemented the dimensionality reduction techniques and visualizations. J.E. and N.K. performed statistical analysis and visualizations and configured those within the app. For the supporting paper: A.S. wrote the “System Design and Features” section, R.P. wrote the “Introduction and Dataset” section, J.E. wrote the abstract, and N.K. wrote the “Conclusion and Future Work” section. A.S., R.P., J.E., and N.K. all wrote their respective parts of the “Methods” and “Results and Findings” sections. The authors declare no conflict of interest.
+
