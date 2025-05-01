@@ -1,39 +1,54 @@
-# R Shiny Dimensionality Reduction and Statistical Analysis Application
+# 💻 R Shiny Dimensionality Reduction & Statistical Analysis App
 
-## Created by:  
-Radha Patel, Akber Shaikh, Jamie English, and Natasha Kodgi  
+### 👩‍🔬 Created by:  
+**Radha Patel**, **Akber Shaikh**, **Jamie English**, and **Natasha Kodgi**  
 *Biomedical Data Visualization – Spring 2025*
 
 ---
 
-### Contributions:
+## 🎯 Purpose
 
-- **Akber Shaikh (A.S.)**  
-  - Designed the R Shiny app, including tabs, buttons, and data upload/download functionalities.  
-  - Authored the *“System Design and Features”* section of the supporting paper.
+We developed a user-friendly **R Shiny application** that allows anyone—regardless of coding experience—to perform **dimensionality reduction** and **statistical analysis** on any dataset. 
 
-- **Radha Patel (R.P.)**  
-  - Implemented dimensionality reduction techniques and their visualizations.  
-  - Wrote the *“Introduction and Dataset”* section of the supporting paper.
+To demonstrate the app, we used the **Wisconsin Breast Cancer dataset** (569 samples, 30 features), enabling users to apply a range of techniques including **PCA**, **Sparse PCA**, **Kernel PCA**, **MDS**, and **t-SNE**. Among these, *t-SNE* provided the clearest separation between **benign** and **malignant** tumors.
 
-- **Jamie English (J.E.)**  
-  - Performed statistical analyses and created visualizations.  
-  - Integrated statistical elements into the app.  
-  - Wrote the *Abstract* of the supporting paper.
+The app also features statistical tools such as:
+- ✅ **Welch’s t-tests**
+- 📏 **Confidence interval calculations**
+- 📊 **Visualizations (e.g., box plots)**
 
-- **Natasha Kodgi (N.K.)**  
-  - Performed statistical analyses and created visualizations.  
-  - Integrated statistical elements into the app.  
-  - Authored the *“Conclusion and Future Work”* section of the supporting paper.
+These tools revealed that **tumor size-related features** showed the strongest group differences, highlighting their importance in diagnosis. This app is ideal for clinicians, biologists, and researchers handling **high-dimensional biomedical data**.
 
 ---
 
-### Joint Contributions:
+## 🧠 Team Contributions
 
-All four authors — A.S., R.P., J.E., and N.K. — collaborated on the *“Methods”* and *“Results and Findings”* sections of the paper.
+### 🔧 **Akber Shaikh (A.S.)**
+- Designed the full app structure (tabs, buttons, data upload/download).
+- Wrote the *“System Design and Features”* section of the paper.
+
+### 🎨 **Radha Patel (R.P.)**
+- Implemented dimensionality reduction methods and visualizations.
+- Wrote the *“Introduction and Dataset”* section.
+
+### 📈 **Jamie English (J.E.)**
+- Conducted statistical analyses and integrated them into the app.
+- Wrote the *Abstract*.
+
+### 📊 **Natasha Kodgi (N.K.)**
+- Performed statistical analysis and created visualizations.
+- Authored the *“Conclusion and Future Work”* section.
 
 ---
 
-### Declaration:
+## 🤝 Joint Efforts
+
+All authors collaborated on the:
+- *“Methods”* section  
+- *“Results and Findings”* section
+
+---
+
+## 📢 Declaration
 
 The authors declare **no conflict of interest**.
