@@ -1,6 +1,6 @@
 # 💻 R Shiny Dimensionality Reduction & Statistical Analysis App
 
-### 👩‍🔬 Created by:  
+### 👩‍🔬👨‍🔬👩‍🔬👩‍🔬 Created by:  
 **Radha Patel**, **Akber Shaikh**, **Jamie English**, and **Natasha Kodgi**  
 *Biomedical Data Visualization – Spring 2025*
 
@@ -8,7 +8,7 @@
 
 ## 🎯 Purpose
 
-We developed a user-friendly **R Shiny application** that allows anyone—regardless of coding experience—to perform **dimensionality reduction** and **statistical analysis** on any dataset. 
+We developed a user-friendly **R Shiny application** that allows anyone, regardless of coding experience, to perform **dimensionality reduction** and **statistical analysis** on any dataset. 
 
 To demonstrate the app, we used the **Wisconsin Breast Cancer dataset** (569 samples, 30 features), enabling users to apply a range of techniques including **PCA**, **Sparse PCA**, **Kernel PCA**, **MDS**, and **t-SNE**. Among these, *t-SNE* provided the clearest separation between **benign** and **malignant** tumors.
 
